@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.83631014.css",
+    "main.js": "/static/js/main.7834276c.js",
+    "static/js/206.3f4bf55f.chunk.js": "/static/js/206.3f4bf55f.chunk.js",
+    "static/js/760.5ea7334d.chunk.js": "/static/js/760.5ea7334d.chunk.js",
+    "static/js/239.42617c47.chunk.js": "/static/js/239.42617c47.chunk.js",
+    "static/media/YJK_ERP_DOCUMENTATION.pdf": "/static/media/YJK_ERP_DOCUMENTATION.098d2f3ec5109b47c435.pdf",
+    "static/media/home.jpg": "/static/media/home.849458a441e11448beae.jpg",
+    "static/media/logo.PNG": "/static/media/logo.0f368e71ce40d131fc89.PNG",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/user.jpg": "/static/media/user.4e1103b43457e0472adc.jpg",
+    "static/media/PaymentQr.png": "/static/media/PaymentQr.0ba2075cc5597c6de616.png",
+    "static/media/plain_image.jpg": "/static/media/plain_image.2e001b856e90a7542ef2.jpg",
+    "static/media/Team.png": "/static/media/Team.84090a7c3187dde7f547.png",
+    "static/media/vector3.png": "/static/media/vector3.5fd9191dde2d5bd96850.png",
+    "static/media/login.svg": "/static/media/login.391f5bc48c85141de8573483691eaf59.svg",
+    "static/media/search-icon.svg": "/static/media/search-icon.dcc917b4aaedba50220f7e8a520b49a2.svg",
+    "index.html": "/index.html",
+    "static/media/circle.svg": "/static/media/circle.41861502aac974819630ad96ebc0ef85.svg"
+  },
+  "entrypoints": [
+    "static/css/main.83631014.css",
+    "static/js/main.7834276c.js"
+  ]
+}
